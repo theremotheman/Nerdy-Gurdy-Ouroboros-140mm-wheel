@@ -1,4 +1,4 @@
-# Nerdy-Gurdy-Ouroboros-140mm-wheel
+# Nerdy-Gurdy Ouroboros 140mm wheel
 
 Wheel body STL view
 
